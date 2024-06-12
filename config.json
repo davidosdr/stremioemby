@@ -1,0 +1,14 @@
+{
+  "user": {
+    "title": "Correo",
+    "type": "string",
+    "default": "cidoncha.rosado@proton.me",
+    "required": true
+  },
+  "pass": {
+    "title": "Password",
+    "type": "string",
+    "default": "Cidonch@2007",
+    "required": true
+  }
+}
